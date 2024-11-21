@@ -19,11 +19,11 @@ uzimmie is an exciting SwiftUI-powered mobile app that offers users a vibrant, i
 
 | **Homepage** | **Product Detail** | **Filter System** |
 |--------------|--------------------|-------------------|
-| ![Homepage](https://ucleus.co/github/uzimmie/main.png) | ![Product Detail]([./path/to/screenshot2.jpeg](https://ucleus.co/github/uzimmie/detail-1.png) | ![Filter System]([./path/to/screenshot3.jpeg](https://ucleus.co/github/uzimmie/search.png) |
+| ![Homepage](https://ucleus.co/github/uzimmie/main.png) | ![Product Detail](https://ucleus.co/github/uzimmie/detail-1.png) | ![Filter System](https://ucleus.co/github/uzimmie/search.png) |
 
 | **Size Selection** | **Cart View** | **Search Page** |
 |--------------------|---------------|-----------------|
-| ![Size Selection](./path/to/screenshot4.jpeg) | ![Cart View](./path/to/screenshot5.jpeg) | ![Search Page](./path/to/screenshot6.jpeg) |
+| ![Size Selection](./path/to/screenshot4.jpeg) | ![Cart View](./path/to/screenshot-5.jpeg) | ![Search Page](./path/to/screenshot6.jpeg) |
 
 | **Product List** | **Shopping Bag** |
 |------------------|------------------|
