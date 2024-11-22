@@ -27,7 +27,7 @@ uzimmie is an exciting SwiftUI-powered mobile app that offers users a vibrant, i
 
 | **Product List** | **Shopping Bag** |
 |------------------|------------------|
-| ![Product List](./path/to/screenshot7.jpeg) | ![Shopping Bag](https://ucleus.co/github/uzimmie/bag-2.png) |
+| ![Product List](https://ucleus.co/github/uzimmie/search.png) | ![Shopping Bag](https://ucleus.co/github/uzimmie/bag-2.png) |
 
 ## 🛠️ **Tech Stack**
 
