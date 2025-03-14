@@ -63,9 +63,9 @@ Our roots start from **Bull Bay**, and we grow toward touching every corner of t
 7. **Future Roadmap**: Expansion to international markets, collaborations with artists, AR shopping experiences.
 
 ## 📫 **Connect With Us**
-- **Website**: [uzimmie.com](https://uzimmie.com)
+- **Website**: [uzimmie.com](https://seanblake.info)
 - **Instagram**: [@uzimmie](https://instagram.com/uzimmie)
-- **Email**: [shop@uzimmie.com](mailto:shop@uzimmie.com)
+- **Email**: [shop@uzimmie.com](mailto:hi@seanblake.info)
 
 ![Follow Us](https://img.shields.io/badge/Follow_Us-on_Instagram-%23E1306C.svg?logo=instagram&style=for-the-badge)
 
