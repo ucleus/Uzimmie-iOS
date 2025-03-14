@@ -1,6 +1,6 @@
 # uzimmie - SwiftUI Mobile App
 
-![uzimmie Banner](./path/to/banner-image.jpeg)
+![uzimmie Banner](https://ucleus.co/github/uzimmie/uzimmie-logo.png)
 
 > **"From Bull Bay to Di Flippin World"** - Building Car Culture, Fashion, and Passion through a seamless mobile shopping experience.
 
