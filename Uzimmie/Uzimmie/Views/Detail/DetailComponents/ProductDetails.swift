@@ -86,3 +86,31 @@ struct ProductDetails_Previews: PreviewProvider {
         Detail(product: dummyProduct) // Pass the dummy product to the Detail view
     }
 }
+
+extension Color {
+    static func getColor(from name: String) -> Color {
+        switch name.lowercased() {
+        case "red":
+            return .red
+        case "blue":
+            return .blue
+        case "green":
+            return .green
+        case "black":
+            return .black
+        case "white":
+            return .white
+        case "yellow":
+            return .yellow
+        case "orange":
+            return .orange
+        case "purple":
+            return .purple
+        case "pink":
+            return .pink
+        // Add more colors as needed
+        default:
+            return .gray // Default color if name doesn't match
+        }
+    }
+}
