@@ -91,7 +91,7 @@ struct SignIn: View {
                         Button {
                             showPassword.toggle()
                         } label: {
-                            Image(systemName: showPassword ? "eyes" : "eyebrow")
+                            Image(systemName: showPassword ? "eye" : "eyebrow")
                         }
                         .foregroundStyle(.black)
                     }
@@ -116,7 +116,7 @@ struct SignIn: View {
                         Button {
                             showConfirmPassword.toggle()
                         } label: {
-                            Image(systemName: showConfirmPassword ? "eyes" : "eyebrow")
+                            Image(systemName: showConfirmPassword ? "eye" : "eyebrow")
                         }
                         .foregroundStyle(.black)
                     }
@@ -174,7 +174,7 @@ struct SignIn: View {
                                 Button {
                                     showPassword.toggle()
                                 } label: {
-                                    Image(systemName: showPassword ? "eyes" : "eyebrow")
+                                    Image(systemName: showPassword ? "eye" : "eyebrow")
                                 }
                                 .foregroundStyle(.black)
                             }
