@@ -42,7 +42,7 @@ class ProfileViewModel: ObservableObject {
                 self?.user = User(
                     id: userId,
                     firstName: data["firstName"] as? String ?? "",
-                    lastName: data["last"] as? String ?? "",
+                    lastName: data["lastName"] as? String ?? "",
                     email: data["email"] as? String ?? "",
                     joined: (data["joined"] as? Timestamp)?.dateValue().timeIntervalSince1970 ?? 0
                 )
