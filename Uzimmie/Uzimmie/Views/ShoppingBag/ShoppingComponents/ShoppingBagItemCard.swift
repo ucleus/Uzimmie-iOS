@@ -86,7 +86,7 @@ struct ShoppingBagItemCard: View {
             // MARK: Quantity and price
             HStack {
                 HStack {
-                    Text("Qty \(cartManager.productCount)")
+                    Text("Qty \(productCount)")
                     Image(systemName: "chevron.down")
                         .padding(.leading)
                     
