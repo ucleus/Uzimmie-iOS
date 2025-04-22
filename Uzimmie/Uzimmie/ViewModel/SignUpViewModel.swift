@@ -65,7 +65,7 @@ class SignUpViewModel: ObservableObject {
             return false
         }
         
-        guard password.count >= 14 else {
+        guard password.count >= 8 else {
             return false
         }
         
