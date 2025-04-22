@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct CustomBorderButton: View {
-    @State var action: () -> Void
+    var action: () -> Void
     var buttonTitle: String
     var foregroundColor: Color
     var backgroundColor: Color
