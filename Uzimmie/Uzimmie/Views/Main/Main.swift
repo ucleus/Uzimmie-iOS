@@ -19,13 +19,16 @@ struct Main: View {
                     NavigationLink(destination: Profile(), isActive: $isActive) {
                         EmptyView()
                     }
-                    .disabled(!authManager.isLoggedIn)
                     
                     // MARK: - Header
                     Header(action: {
                         // Action to the Profile page
                         // Action to signin to see the profile page
-                        isActive = true
+                        if authManager.isLoggedIn {
+                            isActive = true
+                        } else {
+                            showSignInSheet = true
+                        }    
                     },
                            headerTitle: "uzimmie",
                            subTitle: "From Bull Bay to Di Flippin World",
@@ -39,6 +42,9 @@ struct Main: View {
                 .background()
                 .environment(\.colorScheme, .light)
             
+        }
+        .sheet(isPresented: $showSignInSheet) {
+            SignIn()
         }
     }
 }
